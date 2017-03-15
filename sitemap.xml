@@ -2,94 +2,94 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://valpa.github.io/ttgou/about/</loc>
+    <loc>http://10.0.0.65/about/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://valpa.github.io/ttgou/about/</loc>
-    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://valpa.github.io/ttgou/portfolio/product2/</loc>
-  </url>
-  
-  <url>
-    <loc>https://valpa.github.io/ttgou/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://valpa.github.io/ttgou/contact/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://valpa.github.io/ttgou/portfolio/product1/</loc>
-  </url>
-  
-  <url>
-    <loc>https://valpa.github.io/ttgou/portfolio/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://valpa.github.io/ttgou/post/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://valpa.github.io/ttgou/post/post4/</loc>
-  </url>
-  
-  <url>
-    <loc>https://valpa.github.io/ttgou/</loc>
+    <loc>http://10.0.0.65/about/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://valpa.github.io/ttgou/post/post5/</loc>
+    <loc>http://10.0.0.65/portfolio/product2/</loc>
   </url>
   
   <url>
-    <loc>https://valpa.github.io/ttgou/post/post2/</loc>
-  </url>
-  
-  <url>
-    <loc>https://valpa.github.io/ttgou/categories/%E6%89%8B%E6%9C%BA/</loc>
+    <loc>http://10.0.0.65/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://valpa.github.io/ttgou/post/post1/</loc>
-  </url>
-  
-  <url>
-    <loc>https://valpa.github.io/ttgou/portfolio/product3/</loc>
-  </url>
-  
-  <url>
-    <loc>https://valpa.github.io/ttgou/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://valpa.github.io/ttgou/categories/%E8%A1%A3%E6%9C%8D%E9%A5%B0%E5%93%81/</loc>
+    <loc>http://10.0.0.65/contact/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://valpa.github.io/ttgou/post/post6/</loc>
+    <loc>http://10.0.0.65/portfolio/product1/</loc>
   </url>
   
   <url>
-    <loc>https://valpa.github.io/ttgou/post/post3/</loc>
+    <loc>http://10.0.0.65/portfolio/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://valpa.github.io/ttgou/categories/%E9%AB%98%E4%BD%8E%E5%BA%8A/</loc>
+    <loc>http://10.0.0.65/post/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://10.0.0.65/post/post4/</loc>
+  </url>
+  
+  <url>
+    <loc>http://10.0.0.65/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://10.0.0.65/post/post5/</loc>
+  </url>
+  
+  <url>
+    <loc>http://10.0.0.65/post/post2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://10.0.0.65/categories/%E6%89%8B%E6%9C%BA/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://10.0.0.65/post/post1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://10.0.0.65/portfolio/product3/</loc>
+  </url>
+  
+  <url>
+    <loc>http://10.0.0.65/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://10.0.0.65/categories/%E8%A1%A3%E6%9C%8D%E9%A5%B0%E5%93%81/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://10.0.0.65/post/post6/</loc>
+  </url>
+  
+  <url>
+    <loc>http://10.0.0.65/post/post3/</loc>
+  </url>
+  
+  <url>
+    <loc>http://10.0.0.65/categories/%E9%AB%98%E4%BD%8E%E5%BA%8A/</loc>
     <priority>0</priority>
   </url>
   
